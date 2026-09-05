@@ -15,7 +15,9 @@ Then, we assume that women are likely to give birth between
 women's population between 21 and 51 years old in the 
 population sensus.
 """
-# This code is write by my own. AI(Gemini) fixed the problem of not reading values on line ??. AI(Gemini) also helped me to merge tables.
+## This code is not entirely write by my own. 
+## AI(Gemini) fixed the problem of not reading values on line ??. AI(Gemini) also helped me to merge tables.
+## Write by my own.
 import pandas as pd
 
 #Set up conditions
