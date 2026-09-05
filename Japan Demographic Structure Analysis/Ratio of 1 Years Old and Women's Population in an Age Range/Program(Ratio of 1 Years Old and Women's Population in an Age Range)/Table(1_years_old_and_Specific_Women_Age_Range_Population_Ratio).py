@@ -1,4 +1,7 @@
-# Table(1_years_old_and_(21-51)_Women_ratio)
+# python 3
+# filename: Table(1_years_old_and_Specific_Women_Age_Range_Population_Ratio)
+# Authors: Betty Botian Zhang, bz2443@nyu.edu
+# AI Assistant: Gemini
 """In this study, we are trying to measure the change of 
 women's likelyhood of giving birth in one year when they
 are at the age that is likely to give birth.
@@ -12,8 +15,7 @@ Then, we assume that women are likely to give birth between
 women's population between 21 and 51 years old in the 
 population sensus.
 """
-# This code is write by my own. AI(Gemini) fixed the problem of not reading values on line ??. AI(Gemini) also helped me to merge tables. Form line
-# Import
+# This code is write by my own. AI(Gemini) fixed the problem of not reading values on line ??. AI(Gemini) also helped me to merge tables.
 import pandas as pd
 
 #Set up conditions
